@@ -1,0 +1,16 @@
+title: "Learning Relative Price Relationships"
+one_line: "Learn pairwise retail price relationships from product attributes and reconcile them into a globally consistent price structure."
+domains:
+  - Decision Intelligence
+  - Retail Pricing
+  - Optimization
+capabilities:
+  - Pairwise learning
+  - Product attribute modeling
+  - Graph-based optimization
+  - Structured prediction
+demonstrates:
+  - Formulating pricing as a relative relationship problem
+  - Learning from observed product prices
+  - Reconciling local predictions under global consistency constraints
+status: public

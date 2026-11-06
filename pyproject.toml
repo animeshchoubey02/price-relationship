@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "price-ratio"
+version = "0.2.0"
+description = "Learning relative price relationships from retail product catalogs"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scikit-learn>=1.3", "scipy>=1.10", "openpyxl>=3.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
